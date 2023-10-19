@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658225614 source:c:\users\dg\desktop\resistance circuit\circuit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
